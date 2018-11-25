@@ -98,7 +98,7 @@ function countdown(word) {
 Timer
 */
 var timerWidth = 100; 
-var totalTime = 20;
+var totalTime = 20000;
 var timeLeft = totalTime;
 function startTimer() {
     timer = setInterval(function(){ 
